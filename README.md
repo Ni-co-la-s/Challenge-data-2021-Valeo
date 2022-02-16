@@ -8,10 +8,10 @@ This repository contains all of the files required to run my submission to the V
 ### Dependencies
 
 Libraries to have:
-*tensorflow (version 2.7.0 or higher)
-*sklearn (version 0.22 or higher)
-*open-cv2 (version 4.5.1 or higher)
-*usual libraries (pickle,numpy,pandas,os,re,glob,PIL)
+* tensorflow (version 2.7.0 or higher)
+* sklearn (version 0.22 or higher)
+* open-cv2 (version 4.5.1 or higher)
+* usual libraries (pickle,numpy,pandas,os,re,glob,PIL)
 
 ### Installing
 
